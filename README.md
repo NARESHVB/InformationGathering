@@ -37,15 +37,17 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ```
 ping saveetha.ac.in
 ```
-![img](s1.png)
+
 ## Output:
-![img](s2.png)
+![img](s1.png)
+
 ## Finding Hosting Company
 
 get further detail by using ip2location.com website.
 ## Output:
+![img](https://user-images.githubusercontent.com/118707693/238302790-ad2a8edd-7197-44ae-9f54-94375c7114a9.png)
 
-![img](s3.png)
+
 ## History of the website:
 ## Output:
 
@@ -57,6 +59,9 @@ https://web.archive.org/
 nc 172.17.52.118 80
 ```
 ## Output:
+![img](s2.png)
+![img](s3.png)
+
 ![img](s4.png)
 ## nmap:
 ```
