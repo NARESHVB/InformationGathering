@@ -91,8 +91,7 @@ whatweb -v -a 3 172.17.52.201
 httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
 ```
 ## Output:
-
-![Screenshot from 2023-05-15 04-16-42](s7.png)
+![img](https://user-images.githubusercontent.com/118707693/238301937-a70e6db5-d324-4bee-80f9-9dfdf9b37338.png)
 
 
 
