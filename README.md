@@ -29,7 +29,7 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 
 ## OUTPUT:
-![img](s1.png)
+![img](https://user-images.githubusercontent.com/118707693/238300689-505c1008-6602-4c30-a18f-a19831193609.png)
 ### Finding IP address:
 
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
@@ -37,6 +37,7 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ```
 ping saveetha.ac.in
 ```
+![img](s1.png)
 ## Output:
 ![img](s2.png)
 ## Finding Hosting Company
